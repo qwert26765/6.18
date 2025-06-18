@@ -6,7 +6,7 @@ using DG.Tweening;//-------------------------第十九步
 
 public class SingleItem : MonoBehaviour
 {   
-    public Vector3 startPos = new Vector3(0, 0, 1);// 起始位置--------------------第六步
+    public Vector3 startPos = new Vector3(0, 0, 0);// 起始位置--------------------第六步
     
     public float width;// 单元格宽度--------------------第六步  
 
