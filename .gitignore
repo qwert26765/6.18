@@ -4,3 +4,11 @@ Logs
 .vsconfig
 *.sln
 *.csproj
+.vs
+.vs
+.vs
+obj
+Temp
+.vs/6.18/CopilotIndices
+.vs/6.18
+.vs/6.18/v17

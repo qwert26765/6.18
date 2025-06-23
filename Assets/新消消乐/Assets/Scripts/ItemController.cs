@@ -7,6 +7,7 @@ using UnityEngine.Pool;
 
 public class ItemManager : MonoBehaviour
 {
+    GameObject gameObject;
     public int col; // 列数---------------------------------第一步
 
     public int row; // 行数---------------------------------第一步
